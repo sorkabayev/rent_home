@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430369147170",
+    "project_id": "renthome-7c338",
+    "storage_bucket": "renthome-7c338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430369147170:android:b0ca9f0af0e4e2ebd17d7b",
+        "android_client_info": {
+          "package_name": "com.example.rent_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430369147170-0f0sgg0fg3a63t0fa3q3g1ht9cf3u6l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtB6qWiIQKSiH89wraTmfQ2aehsQ1caYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430369147170-0f0sgg0fg3a63t0fa3q3g1ht9cf3u6l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
